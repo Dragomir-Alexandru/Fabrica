@@ -1,9 +1,19 @@
 {
-    "0": {
-        "nume": "Dragomir",
-        "prenume": "Alexandur",
-        "telefon": "0730000000",
-        "email": "Alexandru.Dragomir@fabrica.ro",
-        "functie": "Admin"
+    "1": {
+        "name": "Dragomir",
+        "surname": "Alexandur",
+        "telephone": "0730000000",
+        "mail": "Alexandru.Dragomir@fabrica.ro",
+        "function": "Admin"
+    },
+    "2": {
+        "name": "Bic",
+        "surname": "Sergiu",
+        "telephone": "0745661122",
+        "mail": "Sergiu.Bic@fabrica.ro",
+        "function": "Operator",
+        "qualification": [
+            "Gazotehnist"
+        ]
     }
 }
