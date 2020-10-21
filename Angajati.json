@@ -16,7 +16,8 @@
         "mail": "Sergiu.Bic@fabrica.ro",
         "function": "Operator",
         "qualification": [
-            "Gazotehnist"
+            "Gazotehnist",
+            "Electrician"
         ]
     },
     "3": {
@@ -25,6 +26,14 @@
         "telephone": "0740965789",
         "mail": "Alexandra.Ureche@fabrica.ro",
         "function": "Gestionar",
+        "qualification": []
+    },
+    "4": {
+        "name": "Dragomir",
+        "surname": "Daniela",
+        "telephone": "0740965402",
+        "mail": "Daniela.Dragomir@fabrica.ro",
+        "function": "Manager",
         "qualification": []
     }
 }

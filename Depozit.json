@@ -1,10 +1,10 @@
 {
-    "Tabla": 10,
-    "Suruburi": 30,
+    "Tabla": 96,
+    "Suruburi": 50,
     "Freon": 2,
-    "Bec": 5,
+    "Bec": 7,
     "Motor mare": 1,
     "Motor mediu": 0,
-    "Motor mic": 0,
-    "Sigurante": 0
+    "Motor mic": 1,
+    "Sigurante": 6
 }

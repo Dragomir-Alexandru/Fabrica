@@ -80,7 +80,7 @@ class Fabrica:
         produs = input('Scrie produsul pe care vrei sa il alimentezi\n')
         cantitate = int(input('Scrie cantitatea pe care o adaugi\n'))
 
-        dict_depozit[produs.capitalize()] = cantitate
+        dict_depozit[produs.capitalize()] += cantitate
         time.sleep(2)
         print('Depozit actualizat')
         print('Daca doresti sa mai adaugi, repeta procesul')
