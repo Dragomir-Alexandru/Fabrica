@@ -4,16 +4,27 @@
         "surname": "Alexandur",
         "telephone": "0730000000",
         "mail": "Alexandru.Dragomir@fabrica.ro",
-        "function": "Admin"
+        "function": "Admin",
+        "qualification": [
+            "BOSS"
+        ]
     },
     "2": {
         "name": "Bic",
         "surname": "Sergiu",
-        "telephone": "0745661122",
+        "telephone": "0740886633",
         "mail": "Sergiu.Bic@fabrica.ro",
         "function": "Operator",
         "qualification": [
             "Gazotehnist"
         ]
+    },
+    "3": {
+        "name": "Ureche",
+        "surname": "Alexandra",
+        "telephone": "0740965789",
+        "mail": "Alexandra.Ureche@fabrica.ro",
+        "function": "Gestionar",
+        "qualification": []
     }
 }
